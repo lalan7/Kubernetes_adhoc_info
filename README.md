@@ -1,4 +1,4 @@
-# Kubernetes_adhoc_info test
+# Kubernetes_adhoc_info
 
 Nice layout about kube
 
